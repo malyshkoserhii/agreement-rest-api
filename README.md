@@ -1,6 +1,8 @@
 # agreement-rest-api
 A simple agreement API to study Frontend
-https://malser-contracts.herokuapp.com/
+<br/>
+Main URL is https://malser-contracts.herokuapp.com/
+<br/>
 CRUD:
 - create contract - /api/contracts (method POST);
 - get all contracts - /api/contracts (method GET);
@@ -10,7 +12,8 @@ CRUD:
 
 The structure of the Contract is:
 
-`{
+```json
+{
     "name": "Services agreement N1",
     "company": "Sun LLC",
     "date": "31.10.2021",
@@ -32,4 +35,4 @@ The structure of the Contract is:
         }
     ],
     "original": true
-}`
+}```
