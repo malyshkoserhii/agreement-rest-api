@@ -1,7 +1,7 @@
 # agreement-rest-api
 A simple agreement API to study Frontend
 <br/>
-Main URL is https://malser-contracts.herokuapp.com/
+The base URL is https://malser-contracts.herokuapp.com/
 <br/>
 CRUD:
 - create contract - /api/contracts (method POST);
