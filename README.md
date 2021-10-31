@@ -10,7 +10,7 @@ CRUD:
 
 The structure of the Contract is:
 
-{
+`{
     "name": "Services agreement N1",
     "company": "Sun LLC",
     "date": "31.10.2021",
@@ -32,4 +32,4 @@ The structure of the Contract is:
         }
     ],
     "original": true
-}
+}`
